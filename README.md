@@ -11,7 +11,7 @@ This project showcases a modern shoes e-commerce store, enabling customers to br
 
 > *If deployed, add the live link here — e.g., Netlify / GitHub Pages.*
 
-🔗 https://your-deployment-url.com
+🔗 https://prodigy-fs-03-tau.vercel.app/
 
 ---
 
@@ -51,12 +51,14 @@ This project showcases a modern shoes e-commerce store, enabling customers to br
 ## 📁 Project Structure
 
 PRODIGY_FS_03/
+```
 ├── index.html
 ├── cart.html
 ├── style.css
 ├── script.js
 ├── shoes.js
 └── README.md
+```
 
 
 ---
