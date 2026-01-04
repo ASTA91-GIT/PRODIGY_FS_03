@@ -9,7 +9,6 @@ This project showcases a modern shoes e-commerce store, enabling customers to br
 
 ## 🚀 Live Preview
 
-> *If deployed, add the live link here — e.g., Netlify / GitHub Pages.*
 
 🔗 https://prodigy-fs-03-tau.vercel.app/
 
